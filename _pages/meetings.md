@@ -1,6 +1,6 @@
 ---
-permalink: /technology/
-title: Technology 4 All
+permalink: /meetings/
+title: Meetings
 ---
 <div class="responsive-wrap" markdown="0">
   <script>
