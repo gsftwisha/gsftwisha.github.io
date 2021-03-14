@@ -42,7 +42,7 @@ feature_row:
 
 {% include feature_row %}
 
-TWISHA, or The Women In Self-Health Awareness, is a project by GramSheel Foundation. 
+Project TWISHA, or The Women In Self-Health Awareness, is a project by GramSheel Foundation. 
 
 The scope of Project TWISHA include women’s health issues (direct objective), child health issues (parallel objective), and domestic health issues (targeting alcoholism, sanitation, water etc.)
 
