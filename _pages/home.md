@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: TWISHA
+title: Project TWISHA
 header:
   overlay_color: "#E6E6FA"
   overlay_image: assets/images/twisha_banner_v2.0.png
@@ -18,7 +18,7 @@ excerpt:
 feature_row:
   - image_path: /assets/images/twishakits_banner.jpg
     alt: "twishakits"
-    title: "TWISHA Kits"
+    title: "TWISHA  Kits"
     excerpt: "Healthcare is basic dignity of human life and awarness is the key to Health assessment and prevention of illnesses. This intiatives works towards developing awareness on women, child and community health issues and possible preventive measures along with some basic screening tools. TWISHA Kits include Self Assessing Kits, Health Kits Information Leaflets, guides and protocols.
 <br><br><br>"
     url: "/TWISHA Events/"
@@ -42,13 +42,13 @@ feature_row:
 
 {% include feature_row %}
 
-TWISHA, or The Women In Self-Health Awareness, is a project by GramSheel Foundation. 
+Project TWISHA, or The Women In Self-Health Awareness, is a project by GramSheel Foundation. 
 
 The scope of Project TWISHA include women’s health issues (direct objective), child health issues (parallel objective), and domestic health issues (targeting alcoholism, sanitation, water etc.)
 
-TWISHA designs kits for assessing self-health, related books, and simple health packets (containing PCC etc.). The media initiatives under TWISHA produce blogs, articles, and tweets. Along with this TWISHA trains volunteers as self-health awareness enablers. TWISHA also produces videos covering expert advice and panel discussions or events related to women’s health issues.
+Project TWISHA designs kits for assessing self-health, related books, and simple health packets (containing PCC etc.). The media initiatives under Project TWISHA produce blogs, articles, and tweets. Along with this Project TWISHA trains volunteers as self-health awareness enablers. Project TWISHA also produces videos covering expert advice and panel discussions or events related to women’s health issues.
 
-TWISHA’s activities include and are based on strong research and development (R&D). This primarily concerns medical research on women’s health issues and medical devices / telemedicine for women.
+Project TWISHA’s activities include and are based on strong research and development (R&D). This primarily concerns medical research on women’s health issues and medical devices / telemedicine for women.
  
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
